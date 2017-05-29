@@ -1,2 +1,2 @@
-# loxodonta
-Passing the Wolfram|One data to the Autodesk Fusion 360
+# 🐘 loxodonta
+This project allows to use the power of  Wolfram|One within the CAD systems
